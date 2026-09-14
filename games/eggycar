@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="icon" href="/img/favicon.png">
+    <title>New Tab</title>
+  </head>
+  <body>
+    <h3><a href="/">Home</a>⠀⠀⠀<a href="/info">Info</a>⠀⠀⠀<a href="/contact">Contact</a>⠀⠀⠀<a href="/gamefinder">Can't find game?</a></h3>
+    <div style="text-align: center">
+      <img src="/img/apollo.svg" width="22%">
+      <hr>
+      <iframe src="/embeds/eggycar/index.html" width="80%" height="569px;" scrolling="no"></iframe>
+      <p><br></p>
+      <a href="/"><button><h1>⠀Home⠀</h1></button></a>
+  </body>
+</html>
